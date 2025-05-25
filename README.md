@@ -25,7 +25,7 @@ A responsive ReactJS web application that displays information about countries a
 
 ## 🖼️ Demo
 
-![Demo Screenshot](link-to-screenshot-or-gif-if-you-have-one)
+![Demo Screenshot](src/images/countries.png)
 
 ---
 
@@ -35,7 +35,7 @@ A responsive ReactJS web application that displays information about countries a
 - **React Router** (for navigation)  
 - **CSS / SCSS** (for styling)  
 - **REST Countries API** for data:  
-  [https://restcountries.com](https://restcountries.com)
+  [https://restcountries.com](https://restcountries.com/v3.1/all)
 
 ---
 ## 🧭 Navigation
@@ -48,22 +48,22 @@ A responsive ReactJS web application that displays information about countries a
 
 ## 🖼️ Example Country Details
 
-Montenegro 🇲🇪
+- Montenegro 🇲🇪
 
-Native Name: Црна Гора
+- Native Name: Црна Гора
 
-Top Level Domain: .me
+- Top Level Domain: .me
 
-Population: 621,718
+- Population: 621,718
 
-Region: Europe
+- Region: Europe
 
-Capital: Podgorica
+- Capital: Podgorica
 
-Currency: Euro
+- Currency: Euro
 
-Languages: Montenegrin
+- Languages: Montenegrin
 
-Borders: ALB, BIH, HRV, UNK, SRB
+- Borders: ALB, BIH, HRV, UNK, SRB
 
 ---
