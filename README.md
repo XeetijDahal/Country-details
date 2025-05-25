@@ -35,7 +35,7 @@ A responsive ReactJS web application that displays information about countries a
 - **React Router** (for navigation)  
 - **CSS / SCSS** (for styling)  
 - **REST Countries API** for data:  
-  [https://restcountries.com](https://restcountries.com/v3.1/all)
+  [API Link](https://restcountries.com/v3.1/all)
 
 ---
 ## 🧭 Navigation
